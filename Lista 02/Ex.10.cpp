@@ -1,8 +1,6 @@
 #include <stdio.h>
 
-//Calcule o b?nus a ser recebido por um funcion?rio com base em seu 
-//tempo de servi?o na empresa, considerando diferentes faixas de tempo 
-//com b?nus vari?veis.
+
 
 int main(){
 	

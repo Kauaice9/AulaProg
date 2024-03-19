@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-//Converta uma nota numérica (0 a 100) para um conceito (A, B, C, D, E, F), 
-//seguindo um critério pré-definido.
+
 
 
 int main (){

@@ -1,10 +1,6 @@
 #include <stdio.h>
 
-//Projete um algoritmo que calcule a economia de energia conseguida 
-//por meio de um sistema de automa??o residencial. O sistema ajusta 
-//o consumo de energia de acordo com a necessidade, reduzindo a pot?ncia 
-//consumida em determinados hor?rios. O algoritmo deve considerar o consumo 
-//antes e depois da automa??o, al?m da dura??o do per?odo de economia.
+
 
 int main(){
 	

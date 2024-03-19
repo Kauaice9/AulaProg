@@ -1,9 +1,5 @@
 #include <stdio.h>
 
-//Desenvolva um algoritmo para calcular o ?ndice de Massa Corporal 
-//(IMC) de uma pessoa e classificar seu estado nutricional.
-
-
 
 int main (){
 	

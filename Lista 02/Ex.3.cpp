@@ -1,8 +1,5 @@
 #include <stdio.h>
 
-//Dada a potência ativa (P, em watts) e a potência aparente (S, em VA), 
-//calcule o fator de potência do circuito e determine se é indutivo 
-//ou capacitivo.
 
 int main (){
 	

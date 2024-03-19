@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-//Escreva um programa que calcule a potência ativa (em watts)
-// em um circuito de corrente alternada, dados a tensão eficaz (Vrms), 
-//a corrente eficaz (Irms) e o ângulo de fase entre a tensão e a corrente (?).
+
 
 int main ()	{
 	float pot, Vrms, Irms, t;

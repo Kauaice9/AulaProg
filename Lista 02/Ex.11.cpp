@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-//Determine se um fio ? fase ou neutro com base na tens?o medida.
-
 int main (){
 	
 	float tensao;
@@ -20,4 +18,4 @@ int main (){
 	
 	
 	return 0;
-}
+} 	

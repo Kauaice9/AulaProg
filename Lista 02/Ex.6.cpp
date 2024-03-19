@@ -1,10 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 
-//Calcule a quantidade de energia el?trica produzida 
-//por um gerador e?lico, dados a efici?ncia do conversor, 
-//a ?rea da se??o transversal do vento interceptada pela 
-//turbina e a velocidade do vento.
 
 
 int main (){

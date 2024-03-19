@@ -1,8 +1,5 @@
 #include <stdio.h>
 
-//Dados os comprimentos de tr?s linhas, determine se 
-//elas podem formar um tri?ngulo. Se sim, especifique 
-//se ? um tri?ngulo equil?tero, is?sceles ou escaleno.
 
 
 int main(){

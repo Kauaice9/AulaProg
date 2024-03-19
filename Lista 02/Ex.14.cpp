@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-//Implemente um algoritmo para calcular o montante final de um investimento aplicado a juros compostos.
+
 
 int main (){
 	

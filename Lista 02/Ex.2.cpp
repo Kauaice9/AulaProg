@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Calcule a resistência equivalente de dois resistores, tanto em série quanto em paralelo, e informe os resultados.
+
 
 int main(){
 	
